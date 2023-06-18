@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828034607045",
+    "project_id": "pdipchat",
+    "storage_bucket": "pdipchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828034607045:android:d5bef57927950c09c2cdac",
+        "android_client_info": {
+          "package_name": "com.arifwidiarto.chatpdip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828034607045-4r8rlfhgpo85ueb55fgh3ggesr1gdu0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccwZqF5x9LjC-gHU8E6vnxfPYmhGYbyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828034607045-4r8rlfhgpo85ueb55fgh3ggesr1gdu0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
